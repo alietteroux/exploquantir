@@ -1,0 +1,12 @@
+Package: exploquantir
+Title: Functions to make easier exploratory analysis of quantitative data in social sciences
+Version: 0.0.0.9000
+Authors@R: person("Aliette", "Roux", email = "aliette.roux@univ-nantes.fr",role = c("aut", "cre"))
+Description: This package goes with PROGEDO-Loire formations (https://msh-progedo-loire.univ-nantes.fr/). It aims to make easier exploratory analysis of quantitative data in social sciences.
+Imports: ggplot2, dplyr, progress, gt, questionr, scales, survey, tibble
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+URL: https://github.com/alietteroux/exploquantir
+BugReports: https://github.com/alietteroux/exploquantir/issues
